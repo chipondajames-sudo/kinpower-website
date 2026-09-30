@@ -232,10 +232,10 @@ h1, h2, h3 { font-weight: 600; letter-spacing: -.06em; }
   .feature-card p { font-size: .64rem; }
   .card-link { font-size: .57rem; line-height: 1.5; }
   .split-section { grid-template-columns: 1fr; }
-  .split-image { min-height: 390px; }
+  .split-image { min-height: 320px; }
   .split-copy { padding: 67px 28px; }
   .broadcaster-section .split-copy, .broadcaster-section .split-image { order: initial; }
-  .broadcaster-section .split-image { min-height: 360px; }
+  .broadcaster-section .split-image { min-height: 300px; }
   .image-tag { top: 22px; left: 20px; }
   .image-caption { bottom: 28px; left: 23px; }
   .content-grid { grid-template-columns: repeat(2, 1fr); gap: 9px; }
